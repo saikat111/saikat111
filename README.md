@@ -1,8 +1,12 @@
+Sure! Here's a revised version of your GitHub profile README based on your Upwork profile details:
+
+---
+
 - 👋 Hi, I’m @saikat111
-- 👀 I’m interested in android development and machine learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on native android development
-- 📫 How to reach me email me : s8856010@gmail.com or facebook :https://www.facebook.com/sorder.saikat.3/
+- 👀 I’m passionate about mobile app development, backend systems, and quantum mechanics research.
+- 🌱 Currently exploring advanced topics in quantum computing and enhancing my skills in machine learning.
+- 💞️ I’m open to collaborating on native Android development, backend solutions, and quantum computing projects.
+- 📫 Reach out to me via email at s8856010@gmail.com or connect with me on [Facebook](https://www.facebook.com/sorder.saikat.3/)
 
 <!---
 saikat111/saikat111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
