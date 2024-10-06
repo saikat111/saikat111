@@ -9,7 +9,7 @@ I’m a passionate developer with a keen interest in building seamless mobile ap
 - 🔭 **Current Focus**: Advanced topics in quantum computing, large language models, and enhancing my proficiency in machine learning algorithms.
 - 🤝 **Open to Collaborations**: Native Android development, backend solutions, LLM research, and cutting-edge quantum computing projects.
 - 💡 **Tech Interests**: Mobile app development, AI research, quantum mechanics, and cloud computing.
-- 📬 **Reach Out**: Feel free to connect via [email](mailto:s8856010@gmail.com).
+- 📬 **Reach Out**: Feel free to connect via email s8856010@gmail.com.
 
 ---
 <!---
