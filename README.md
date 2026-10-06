@@ -101,9 +101,9 @@ The technology changes.
 
 If you're interested in **technology, AI, product engineering, startups, architecture, or building something ambitious**, let's connect.
 
-📧 **codingburg.sordersaikat@gmail.com**  
-💬 **[WhatsApp](https://wa.me/8801755111413)**  
-🌐 **[CodingBurg](https://www.codingburg.com)**
+📧 **s8856010@gmail.com**  
+💬 **[WhatsApp](https://wa.me/8801908121146)**  
+🌐 **[codingBurg](https://www.codingburg.com)**
 
 ---
 
