@@ -52,23 +52,65 @@ We build:
 
 ---
 
-# ⚙️ Technology
+# ⚙️ Technology & Engineering Expertise
 
-### Build
+With **12+ years of hands-on experience**, I’ve worked across multiple generations of software technologies — from low-level programming and native applications to cloud platforms, distributed systems, AI, and modern web ecosystems.
 
-`Next.js` · `React` · `Android` · `Kotlin` · `Java` · `TypeScript` · `Python` · `PHP`
+I don't limit myself to a single stack. **Languages and frameworks are tools; architecture, problem-solving, and engineering depth are what matter.**
 
-### Architect
+### 💻 Programming Languages
 
-`Node.js` · `Laravel` · `REST APIs` · `Firebase` · `PostgreSQL` · `MySQL` · `MongoDB`
+`C` · `C++` · `C#` · `Java` · `Kotlin` · `Swift` · `Objective-C` · `Python` · `JavaScript` · `TypeScript` · `PHP` · `Go` · `Rust` · `Dart` · `Ruby` · `SQL` · `Bash`
 
-### Deploy
+### 🌐 Web & Frontend Engineering
 
-`Linux` · `Docker` · `Nginx` · `Cloud Infrastructure` · `CI/CD`
+`Next.js` · `React` · `React Native` · `Angular` · `Vue.js` · `Nuxt.js` · `Svelte` · `Vite` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap`
 
-### Explore
+### 🏗️ Backend & Application Frameworks
 
-`Artificial Intelligence` · `LLMs` · `Machine Learning` · `Generative AI` · `Intelligent Systems` · `Quantum Computing`
+`Node.js` · `Express.js` · `NestJS` · `Laravel` · `Django` · `FastAPI` · `Spring Boot` · `ASP.NET Core` · `Ruby on Rails` · `Symfony`
+
+### 📱 Mobile & Native Systems
+
+`Android` · `Android SDK` · `Kotlin` · `Java` · `Jetpack` · `Jetpack Compose` · `iOS` · `Swift` · `React Native` · `Flutter`
+
+### 🧠 Architecture & Systems
+
+`System Design` · `Distributed Systems` · `Microservices` · `Event-Driven Architecture` · `API Design` · `REST` · `GraphQL` · `WebSockets` · `Webhooks` · `Authentication` · `Authorization` · `Scalability` · `Performance Engineering`
+
+### 🗄️ Databases & Data Systems
+
+`PostgreSQL` · `MySQL` · `MariaDB` · `MongoDB` · `Redis` · `SQLite` · `Firestore` · `DynamoDB` · `Elasticsearch` · `Database Design` · `Query Optimization`
+
+### ☁️ Cloud, DevOps & Infrastructure
+
+`Linux` · `Docker` · `Kubernetes` · `Nginx` · `Apache` · `AWS` · `Google Cloud` · `Azure` · `Firebase` · `DigitalOcean` · `VPS` · `CI/CD` · `GitHub Actions` · `Cloud Architecture` · `DNS` · `SSL/TLS`
+
+### 🤖 Artificial Intelligence
+
+`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Large Language Models` · `Generative AI` · `AI Agents` · `RAG` · `Computer Vision` · `Natural Language Processing` · `AI Automation` · `Model Integration` · `Prompt Engineering`
+
+### 🔬 Emerging & Advanced Technology
+
+`LLM Architecture` · `Intelligent Systems` · `Distributed Computing` · `Parallel Computing` · `Quantum Computing` · `Generative Systems` · `Emerging Computing Architectures`
+
+### 🔧 Engineering Ecosystem
+
+`Git` · `GitHub` · `GitLab` · `Bitbucket` · `Android Studio` · `VS Code` · `Postman` · `Gradle` · `Maven` · `npm` · `Composer` · `CMake` · `Webpack` · `Babel`
+
+### 🎯 Core Engineering Strengths
+
+`Software Architecture` · `Product Engineering` · `Technical Leadership` · `System Architecture` · `Problem Solving` · `Performance Optimization` · `Security Engineering` · `Automation` · `Code Quality` · `Scalable Infrastructure` · `Rapid Prototyping`
+
+---
+
+### 🧬 Engineering Philosophy
+
+> **I don't belong to one technology stack.**
+>
+> I learn the technology required to solve the problem — whether that means going from **low-level systems to distributed infrastructure, from native mobile to cloud platforms, or from traditional software to AI-powered systems.**
+>
+> **12+ years. Multiple languages. Multiple ecosystems. One objective: build exceptional technology.**
 
 ---
 
